@@ -22,8 +22,8 @@ function Footer() {
         <div className="footer-bloque">
           <h3>Legal y soporte</h3>
           <ul className="footer-links">
-            <li><a href="#cookies">Política de cookies</a></li>
-            <li><a href="#aviso-legal">Aviso legal</a></li>
+            <li><Link to="/sobre-nosotros">Aviso legal</Link></li>
+            <li><Link to="/sobre-nosotros">Política de cookies</Link></li>
             <li><Link to="/contacto">Soporte</Link></li>
           </ul>
         </div>
@@ -31,9 +31,33 @@ function Footer() {
         <div className="footer-bloque">
           <h3>Síguenos</h3>
           <ul className="footer-social">
-            <li><a href="#instagram">Instagram</a></li>
-            <li><a href="#x">X</a></li>
-            <li><a href="#facebook">Facebook</a></li>
+            <li>
+              <a
+                href="https://www.instagram.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Instagram
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://x.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                X
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.facebook.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Facebook
+              </a>
+            </li>
           </ul>
         </div>
       </div>
