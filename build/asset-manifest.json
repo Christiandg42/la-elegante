@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f16fcea5.css",
+    "main.js": "/static/js/main.792ffae1.js",
+    "static/media/logo-la-elegante.png": "/static/media/logo-la-elegante.c810c7a975ca477e08bb.png",
+    "static/media/banner.png": "/static/media/banner.b2d078b4093f0ac60457.png",
+    "static/media/espana.jpg": "/static/media/espana.0aada85d5aa75560d05f.jpg",
+    "static/media/mesi.jpeg": "/static/media/mesi.2b879fe8509da0810dbb.jpeg",
+    "static/media/leeds.jpg": "/static/media/leeds.0d106135151beb3abaeb.jpg",
+    "static/media/alaves.jpg": "/static/media/alaves.2f635ceacdaa0a1cb47d.jpg",
+    "static/media/malaga.jpg": "/static/media/malaga.ef133c863ce2f1c15549.jpg",
+    "static/media/frankfurt.jpg": "/static/media/frankfurt.21c5a044c7daeaa29a9c.jpg",
+    "static/media/torino.jpg": "/static/media/torino.3938b6a85f07032d4cff.jpg",
+    "static/media/belgica.jpg": "/static/media/belgica.4f177406c751e287484d.jpg",
+    "static/media/milan.jpg": "/static/media/milan.2de15c95cf34623c44a1.jpg",
+    "static/media/grecia.jpg": "/static/media/grecia.a4f75a2005eaa486f4e9.jpg",
+    "static/media/ganha.jpg": "/static/media/ganha.01cae5d23c499193b825.jpg",
+    "static/media/fiore.jpg": "/static/media/fiore.cad682310005d3a7b0ae.jpg",
+    "static/media/werder.jpg": "/static/media/werder.7d68049dda38f21bc910.jpg",
+    "static/media/usuario.png": "/static/media/usuario.c920752422c11377083e.png",
+    "static/media/fulham.jpg": "/static/media/fulham.d6ee9a4384d3646caa3b.jpg",
+    "static/media/alemania.jpg": "/static/media/alemania.221a2f9901859df5bc4c.jpg",
+    "static/media/francia.jpg": "/static/media/francia.60214ffd0b61a8399020.jpg",
+    "static/media/carrito.png": "/static/media/carrito.5e0e4795e86bc425e49d.png",
+    "index.html": "/index.html",
+    "main.f16fcea5.css.map": "/static/css/main.f16fcea5.css.map",
+    "main.792ffae1.js.map": "/static/js/main.792ffae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f16fcea5.css",
+    "static/js/main.792ffae1.js"
+  ]
+}
