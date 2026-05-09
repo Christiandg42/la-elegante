@@ -1054,6 +1054,17 @@ fieldset.campo-form legend {
   .producto-imagen {
     height: 230px;
   }
+  .producto-imagen-link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.producto-imagen-link:focus-visible {
+  outline: 3px solid var(--color-azul);
+  outline-offset: 4px;
+  border-radius: 16px;
+}
 
   .producto-detalles,
   .contacto-form,
